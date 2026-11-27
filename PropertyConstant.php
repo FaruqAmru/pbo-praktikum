@@ -2,7 +2,7 @@
 
 namespace Pbo\MarketPlace;
 
-class Produk {
+trait Produk {
 
     // Property
     private string $kode;
